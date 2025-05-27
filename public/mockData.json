@@ -1,0 +1,554 @@
+{
+  "summaryData": [
+    {
+      "totalApplications": 6820,
+      "applicationsChange": 8.0,
+      "acceptanceRate": 25.3,
+      "acceptanceChange": 1.3,
+      "enrollmentYield": 74.6,
+      "yieldChange": 4.5,
+      "avgGPA": 3.72,
+      "gpaChange": 0.8,
+      "year": "2021-01-01"
+    },
+    {
+      "totalApplications": 7600,
+      "applicationsChange": 4.9,
+      "acceptanceRate": 25.0,
+      "acceptanceChange": -0.3,
+      "enrollmentYield": 74.5,
+      "yieldChange": -0.1,
+      "avgGPA": 3.72,
+      "gpaChange": 0.0,
+      "year": "2022-01-01"
+    },
+    {
+      "totalApplications": 8243,
+      "applicationsChange": 7.3,
+      "acceptanceRate": 24.3,
+      "acceptanceChange": -0.7,
+      "enrollmentYield": 75.5,
+      "yieldChange": 1.0,
+      "avgGPA": 3.72,
+      "gpaChange": 0.0,
+      "year": "2023-01-01"
+    },
+    {
+      "totalApplications": 8860,
+      "applicationsChange": 7.5,
+      "acceptanceRate": 23.9,
+      "acceptanceChange": -0.4,
+      "enrollmentYield": 75.8,
+      "yieldChange": 0.3,
+      "avgGPA": 3.72,
+      "gpaChange": 0.0,
+      "year": "2024-01-01"
+    },
+    {
+      "totalApplications": 9500,
+      "applicationsChange": 7.2,
+      "acceptanceRate": 23.5,
+      "acceptanceChange": -0.4,
+      "enrollmentYield": 76.0,
+      "yieldChange": 0.2,
+      "avgGPA": 3.72,
+      "gpaChange": 0.0,
+      "year": "2025-01-01"
+    }
+  ],
+  "admissionData2023": [
+    {
+      "month": "Jan",
+      "applications": 1240,
+      "admissions": 0,
+      "enrollments": 0,
+      "year": "2023",
+      "fullDate": "2023-01-01"
+    },
+    {
+      "month": "Feb",
+      "applications": 1680,
+      "admissions": 430,
+      "enrollments": 0,
+      "year": "2023",
+      "fullDate": "2023-02-01"
+    },
+    {
+      "month": "Mar",
+      "applications": 2100,
+      "admissions": 580,
+      "enrollments": 0,
+      "year": "2023",
+      "fullDate": "2023-03-01"
+    },
+    {
+      "month": "Apr",
+      "applications": 1890,
+      "admissions": 510,
+      "enrollments": 320,
+      "year": "2023",
+      "fullDate": "2023-04-01"
+    },
+    {
+      "month": "May",
+      "applications": 780,
+      "admissions": 325,
+      "enrollments": 285,
+      "year": "2023",
+      "fullDate": "2023-05-01"
+    },
+    {
+      "month": "Jun",
+      "applications": 320,
+      "admissions": 145,
+      "enrollments": 370,
+      "year": "2023",
+      "fullDate": "2023-06-01"
+    },
+    {
+      "month": "Jul",
+      "applications": 120,
+      "admissions": 10,
+      "enrollments": 290,
+      "year": "2023",
+      "fullDate": "2023-07-01"
+    },
+    {
+      "month": "Aug",
+      "applications": 113,
+      "admissions": 0,
+      "enrollments": 490,
+      "year": "2023",
+      "fullDate": "2023-08-01"
+    }
+  ],
+  "admissionData2022": [
+    {
+      "month": "Jan",
+      "applications": 1100,
+      "admissions": 0,
+      "enrollments": 0,
+      "year": "2022",
+      "fullDate": "2022-01-01"
+    },
+    {
+      "month": "Feb",
+      "applications": 1550,
+      "admissions": 380,
+      "enrollments": 0,
+      "year": "2022",
+      "fullDate": "2022-02-01"
+    },
+    {
+      "month": "Mar",
+      "applications": 1950,
+      "admissions": 520,
+      "enrollments": 0,
+      "year": "2022",
+      "fullDate": "2022-03-01"
+    },
+    {
+      "month": "Apr",
+      "applications": 1800,
+      "admissions": 480,
+      "enrollments": 290,
+      "year": "2022",
+      "fullDate": "2022-04-01"
+    },
+    {
+      "month": "May",
+      "applications": 720,
+      "admissions": 300,
+      "enrollments": 250,
+      "year": "2022",
+      "fullDate": "2022-05-01"
+    },
+    {
+      "month": "Jun",
+      "applications": 290,
+      "admissions": 130,
+      "enrollments": 340,
+      "year": "2022",
+      "fullDate": "2022-06-01"
+    },
+    {
+      "month": "Jul",
+      "applications": 100,
+      "admissions": 5,
+      "enrollments": 260,
+      "year": "2022",
+      "fullDate": "2022-07-01"
+    },
+    {
+      "month": "Aug",
+      "applications": 90,
+      "admissions": 0,
+      "enrollments": 450,
+      "year": "2022",
+      "fullDate": "2022-08-01"
+    }
+  ],
+  "admissionData2021": [
+    {
+      "month": "Jan",
+      "applications": 980,
+      "admissions": 0,
+      "enrollments": 0,
+      "year": "2021",
+      "fullDate": "2021-01-01"
+    },
+    {
+      "month": "Feb",
+      "applications": 1420,
+      "admissions": 340,
+      "enrollments": 0,
+      "year": "2021",
+      "fullDate": "2021-02-01"
+    },
+    {
+      "month": "Mar",
+      "applications": 1780,
+      "admissions": 460,
+      "enrollments": 0,
+      "year": "2021",
+      "fullDate": "2021-03-01"
+    },
+    {
+      "month": "Apr",
+      "applications": 1650,
+      "admissions": 420,
+      "enrollments": 260,
+      "year": "2021",
+      "fullDate": "2021-04-01"
+    },
+    {
+      "month": "May",
+      "applications": 650,
+      "admissions": 270,
+      "enrollments": 230,
+      "year": "2021",
+      "fullDate": "2021-05-01"
+    },
+    {
+      "month": "Jun",
+      "applications": 240,
+      "admissions": 110,
+      "enrollments": 310,
+      "year": "2021",
+      "fullDate": "2021-06-01"
+    },
+    {
+      "month": "Jul",
+      "applications": 80,
+      "admissions": 0,
+      "enrollments": 240,
+      "year": "2021",
+      "fullDate": "2021-07-01"
+    },
+    {
+      "month": "Aug",
+      "applications": 60,
+      "admissions": 0,
+      "enrollments": 410,
+      "year": "2021",
+      "fullDate": "2021-08-01"
+    }
+  ],
+  "admissionData2024": [
+    {
+      "month": "Jan",
+      "applications": 1330,
+      "admissions": 0,
+      "enrollments": 0,
+      "year": "2024",
+      "fullDate": "2024-01-01"
+    },
+    {
+      "month": "Feb",
+      "applications": 1800,
+      "admissions": 460,
+      "enrollments": 0,
+      "year": "2024",
+      "fullDate": "2024-02-01"
+    },
+    {
+      "month": "Mar",
+      "applications": 2250,
+      "admissions": 620,
+      "enrollments": 0,
+      "year": "2024",
+      "fullDate": "2024-03-01"
+    },
+    {
+      "month": "Apr",
+      "applications": 2030,
+      "admissions": 545,
+      "enrollments": 345,
+      "year": "2024",
+      "fullDate": "2024-04-01"
+    },
+    {
+      "month": "May",
+      "applications": 830,
+      "admissions": 345,
+      "enrollments": 305,
+      "year": "2024",
+      "fullDate": "2024-05-01"
+    },
+    {
+      "month": "Jun",
+      "applications": 340,
+      "admissions": 155,
+      "enrollments": 395,
+      "year": "2024",
+      "fullDate": "2024-06-01"
+    },
+    {
+      "month": "Jul",
+      "applications": 130,
+      "admissions": 10,
+      "enrollments": 310,
+      "year": "2024",
+      "fullDate": "2024-07-01"
+    },
+    {
+      "month": "Aug",
+      "applications": 120,
+      "admissions": 0,
+      "enrollments": 525,
+      "year": "2024",
+      "fullDate": "2024-08-01"
+    }
+  ],
+  "admissionData2025": [
+    {
+      "month": "Jan",
+      "applications": 1420,
+      "admissions": 0,
+      "enrollments": 0,
+      "year": "2025",
+      "fullDate": "2025-01-01"
+    },
+    {
+      "month": "Feb",
+      "applications": 1930,
+      "admissions": 490,
+      "enrollments": 0,
+      "year": "2025",
+      "fullDate": "2025-02-01"
+    },
+    {
+      "month": "Mar",
+      "applications": 2410,
+      "admissions": 660,
+      "enrollments": 0,
+      "year": "2025",
+      "fullDate": "2025-03-01"
+    },
+    {
+      "month": "Apr",
+      "applications": 2170,
+      "admissions": 580,
+      "enrollments": 370,
+      "year": "2025",
+      "fullDate": "2025-04-01"
+    },
+    {
+      "month": "May",
+      "applications": 890,
+      "admissions": 370,
+      "enrollments": 325,
+      "year": "2025",
+      "fullDate": "2025-05-01"
+    },
+    {
+      "month": "Jun",
+      "applications": 365,
+      "admissions": 165,
+      "enrollments": 420,
+      "year": "2025",
+      "fullDate": "2025-06-01"
+    },
+    {
+      "month": "Jul",
+      "applications": 140,
+      "admissions": 10,
+      "enrollments": 330,
+      "year": "2025",
+      "fullDate": "2025-07-01"
+    },
+    {
+      "month": "Aug",
+      "applications": 130,
+      "admissions": 0,
+      "enrollments": 560,
+      "year": "2025",
+      "fullDate": "2025-08-01"
+    }
+  ],
+  "enrollmentByProgram": [
+    {
+      "name": "Computer Science",
+      "value": 420,
+      "year": "2023-01-01"
+    },
+    {
+      "name": "Business Administration",
+      "value": 385,
+      "year": "2023-01-01"
+    },
+    {
+      "name": "Engineering",
+      "value": 290,
+      "year": "2023-01-01"
+    },
+    {
+      "name": "Psychology",
+      "value": 215,
+      "year": "2023-01-01"
+    },
+    {
+      "name": "Biology",
+      "value": 180,
+      "year": "2023-01-01"
+    },
+    {
+      "name": "Communications",
+      "value": 150,
+      "year": "2023-01-01"
+    },
+    {
+      "name": "Other Programs",
+      "value": 115,
+      "year": "2023-01-01"
+    },
+    {
+      "name": "Computer Science",
+      "value": 450,
+      "year": "2024-01-01"
+    },
+    {
+      "name": "Business Administration",
+      "value": 410,
+      "year": "2024-01-01"
+    },
+    {
+      "name": "Engineering",
+      "value": 310,
+      "year": "2024-01-01"
+    },
+    {
+      "name": "Psychology",
+      "value": 230,
+      "year": "2024-01-01"
+    },
+    {
+      "name": "Biology",
+      "value": 190,
+      "year": "2024-01-01"
+    },
+    {
+      "name": "Communications",
+      "value": 160,
+      "year": "2024-01-01"
+    },
+    {
+      "name": "Other Programs",
+      "value": 125,
+      "year": "2024-01-01"
+    },
+    {
+      "name": "Computer Science",
+      "value": 480,
+      "year": "2025-01-01"
+    },
+    {
+      "name": "Business Administration",
+      "value": 435,
+      "year": "2025-01-01"
+    },
+    {
+      "name": "Engineering",
+      "value": 330,
+      "year": "2025-01-01"
+    },
+    {
+      "name": "Psychology",
+      "value": 245,
+      "year": "2025-01-01"
+    },
+    {
+      "name": "Biology",
+      "value": 200,
+      "year": "2025-01-01"
+    },
+    {
+      "name": "Communications",
+      "value": 170,
+      "year": "2025-01-01"
+    },
+    {
+      "name": "Other Programs",
+      "value": 135,
+      "year": "2025-01-01"
+    }
+  ],
+  "trendData": [
+    {
+      "name": "2018",
+      "applications": 5840,
+      "admissions": 1520,
+      "enrollments": 1120,
+      "year": "2018-01-01"
+    },
+    {
+      "name": "2019",
+      "applications": 6240,
+      "admissions": 1640,
+      "enrollments": 1220,
+      "year": "2019-01-01"
+    },
+    {
+      "name": "2020",
+      "applications": 6780,
+      "admissions": 1730,
+      "enrollments": 1290,
+      "year": "2020-01-01"
+    },
+    {
+      "name": "2021",
+      "applications": 7320,
+      "admissions": 1850,
+      "enrollments": 1380,
+      "year": "2021-01-01"
+    },
+    {
+      "name": "2022",
+      "applications": 7680,
+      "admissions": 1920,
+      "enrollments": 1430,
+      "year": "2022-01-01"
+    },
+    {
+      "name": "2023",
+      "applications": 8243,
+      "admissions": 2000,
+      "enrollments": 1510,
+      "year": "2023-01-01"
+    },
+    {
+      "name": "2024",
+      "applications": 8860,
+      "admissions": 2090,
+      "enrollments": 1595,
+      "year": "2024-01-01"
+    },
+    {
+      "name": "2025",
+      "applications": 9500,
+      "admissions": 2180,
+      "enrollments": 1680,
+      "year": "2025-01-01"
+    }
+  ]
+}
