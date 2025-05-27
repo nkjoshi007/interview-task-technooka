@@ -30,7 +30,7 @@ const SummaryItem = ({ title, value, icon }) => {
                     ? "text-red-500"
                     : value > 500
                     ? "text-orange-500"
-                    : "text-black"
+                    : "text-white"
                 }`}
               >
                 {value?.toLocaleString() || 0}
